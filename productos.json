@@ -1,0 +1,20 @@
+[
+ {
+    "title": "Escucdra",
+    "price": 123.45,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Squadra_45.jpg",
+    "id": 1
+ },
+ {
+    "title": "Calculadora",
+    "price": 234.36,
+    "thumbnail": "https://www.casasilvia.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/f/x/fx-95ms.jpg",
+    "id": 2
+ },
+ {
+     "title": "Globo Terraqueo",
+     "price": 345.67,
+     "thumbnail": "https://s3-sa-east-1.amazonaws.com/peluffo/f9c984ab-1b4f-4ab6-9246-1c43505d92a9.jpg",
+     "id": 3
+ }
+]
